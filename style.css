@@ -706,8 +706,10 @@ footer > .brand > .part1 > .socials i:hover {
 footer > .brand > .part2 {
   display: flex;
   flex-direction: column;
-  color: #ffffffbb;
   margin-top: 15%;
+}
+footer > .brand > .part2 p {
+  color: #ffffffbb !important;
 }
 footer > .brand > .part2 a {
   color: #ffffffbb;
