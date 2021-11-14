@@ -61,10 +61,10 @@ h6 {
   background: white;
 }
 
-.navbar > h6 > a > img {
+/* .navbar > h6 > a > img {
   width: 30px;
   padding-top: 6px;
-}
+} */
 
 .hamburger {
   display: none;
@@ -97,13 +97,13 @@ h6 {
 }
 
 .nav-logo {
-  font-size: 2.2rem;
+  font-size: 2rem;
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 8px;
   color: hsl(14, 95%, 57%);
-  font-weight: 600;
+  font-weight: 800;
 }
 
 .nav-button a {
@@ -312,7 +312,7 @@ h6 {
 }
 .products > .product > .content h1 {
   color: #161e2e;
-  font-size: 2.2rem;
+  font-size: 2rem;
   font-weight: 800;
 }
 .products > .product > .content p {
@@ -681,9 +681,9 @@ footer > .brand {
   width: 24%;
   margin-right: 4%;
 }
-footer > .brand > .part1 img {
+/* footer > .brand > .part1 img {
   width: 15%;
-}
+} */
 footer > .brand > .part1 h1 {
   color: white;
   font-size: 1.7rem;
@@ -915,10 +915,10 @@ footer .heading {
     padding: 10% 5%;
   }
   .why-us h1 {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
   }
   .why-us p {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     margin-top: 2rem;
   }
 
